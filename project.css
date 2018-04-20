@@ -1,0 +1,17 @@
+html {
+        font-family: sans-serif;
+        background-color: #555555;
+        color: white;
+	
+}
+
+
+ body {
+
+        width: 50%;
+        max-width: 800;
+        min-width: 480;
+        /* 0= top and bottom(vertical. auto = left and right(horizontal*/
+        margin: 0 auto;
+
+      }
